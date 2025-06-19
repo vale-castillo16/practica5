@@ -1,0 +1,12 @@
+2025-06-19 11:54:03,393 - INFO - Transacción registrada: Venta producto X - 150.0 (ingreso)
+2025-06-19 11:54:03,393 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:54:03,393 - INFO - Transacción registrada: Venta accesorio Y - 300.0 (ingreso)
+2025-06-19 11:54:03,393 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:54:03,394 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:54:03,395 - INFO - Resumen exportado correctamente.
+2025-06-19 11:58:38,311 - INFO - Transacción registrada: Venta producto X - 150.0 (ingreso)
+2025-06-19 11:58:38,311 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:58:38,312 - INFO - Transacción registrada: Venta accesorio Y - 300.0 (ingreso)
+2025-06-19 11:58:38,312 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:58:38,312 - ERROR - Monto inválido: El monto debe ser mayor a cero.
+2025-06-19 11:58:38,312 - INFO - Resumen exportado correctamente.
